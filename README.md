@@ -29,5 +29,4 @@ Evaluasi pembelajaran:
 - **Submission** : Proyek akhir berupa praktik siswa berbentuk Bookshelf API berupa membuat Back-End dari aplikasi catatan yang memiliki fungsi Create, Read, Update, dan Delete.
 
 Total jam yang dibutuhkan untuk menyelesaikan kelas ini, mulai dari persiapan kelas sampai evaluasi belajar, adalah **45** jam.
-
-[^1]: [Show Credential](https://www.dicoding.com/certificates/QLZ9Q2MM2Z5D)
+[Show Credential](https://www.dicoding.com/certificates/QLZ9Q2MM2Z5D)
